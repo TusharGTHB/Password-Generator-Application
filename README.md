@@ -1,0 +1,2 @@
+# Password-Generator-Application
+Introducing our secure password generator application built with HTML, CSS, and JavaScript! With easy-to-use interface and customizable options, generate complex and strong passwords that keep your data safe. Our app uses JavaScript to create random combinations of letters, numbers, and symbols, while CSS ensures a visually appealing design. Download now and enjoy strong passwords that are easy to remember, thanks to HTML's structure and formatting capabilities.
